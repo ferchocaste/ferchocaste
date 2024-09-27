@@ -1,16 +1,39 @@
-## Hi there 👋
+![banner](banner2.png)
+## Habilidades
 
-<!--
-**ferchocaste/ferchocaste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Front-end:** HTML, CSS, JavaScript, [Frameworks]
+- **Back-end:** [Lenguajes y Frameworks]
+- **Bases de datos:** [Tipo de Bases de Datos]
+- **Control de versiones:** Git, GitHub
+- **Herramientas:** [Otras herramientas útiles]
 
-Here are some ideas to get you started:
+## Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **Nombre del Proyecto:**
+   - Descripción breve del proyecto y su funcionalidad.
+   - Tecnologías utilizadas.
+
+2. **Nombre del Proyecto:**
+   - Descripción breve del proyecto y su funcionalidad.
+   - Tecnologías utilizadas.
+
+3. **Nombre del Proyecto:**
+   - Descripción breve del proyecto y su funcionalidad.
+   - Tecnologías utilizadas.
+
+## Intereses
+inteligencia artificial, diseño UX, desarrollo ágil, etc.
+
+## Contacto
+
+- **Correo electrónico:** jucastellanosv@unal.edu.co
+- **GitHub:** [github.com/ferchocaste](https://github.com/ferchocaste
+- **LinkedIn:** [linkedin.com/in/juanfernandocastellanosvilla](https://linkedin.com/in/juanfernandocastellanosvilla)
+
+## Recursos Adicionales
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ferchocaste09)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
